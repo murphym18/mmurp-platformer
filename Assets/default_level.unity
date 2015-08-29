@@ -127,6 +127,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tiles: {fileID: 11400000, guid: 8fe38a01ad1d7324892ad8dcfef4db26, type: 2}
-  tileWidth: 3
-  tileHeight: 3
+  tileWidth: 2
+  tileHeight: 2
   testMapData: {fileID: 4900000, guid: 0092a0074dfa80a4dbf4f8e1bae26946, type: 3}
