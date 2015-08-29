@@ -143,8 +143,7 @@ PlayerSettings:
     m_DynamicBatching: 1
   m_BuildTargetGraphicsAPIs: []
   webPlayerTemplate: APPLICATION:Default
-  m_TemplateCustomTags:
-    DESCRIPTION: 
+  m_TemplateCustomTags: {}
   actionOnDotNetUnhandledException: 1
   enableInternalProfiler: 0
   logObjCUncaughtExceptions: 1

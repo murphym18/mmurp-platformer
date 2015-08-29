@@ -96,6 +96,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1911960174}
   - 114: {fileID: 1911960175}
+  - 114: {fileID: 1911960176}
   m_Layer: 0
   m_Name: WorldLoader
   m_TagString: Untagged
@@ -130,3 +131,14 @@ MonoBehaviour:
   tileWidth: 2
   tileHeight: 2
   testMapData: {fileID: 4900000, guid: 0092a0074dfa80a4dbf4f8e1bae26946, type: 3}
+--- !u!114 &1911960176
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1911960173}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccfd6e7b0dda6484c906e84beaee6828, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
